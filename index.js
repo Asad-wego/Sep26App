@@ -1,5 +1,5 @@
-/**
- * @format
+/*
+ * Created by Asad on 28 Sep 2024
  */
 
 import {AppRegistry} from 'react-native';
