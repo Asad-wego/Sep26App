@@ -25,7 +25,7 @@ Before you begin, ensure you have the following installed on your machine:
 ## Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/warehouse-management-system.git
+git clone https://github.com/Asad-wego/Sep26App.git
 cd warehouse-management-system
 ```
 
